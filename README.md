@@ -6,6 +6,7 @@ This tutorial is established to help you understand Parsimony through a small CR
 ## Documentation link
 
 English version http://parsimony.mobi/tutorial/index
+
 French version http://parsimony.mobi/tutoriel/index
 
 ## CRM project
