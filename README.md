@@ -3,6 +3,11 @@ Tutorial
 
 This tutorial is established to help you understand Parsimony through a small CRM project along with its functionalities and its approach.
 
+## Documentation link
+
+English version http://parsimony.mobi/tutorial/index
+French version http://parsimony.mobi/tutoriel/index
+
 ## CRM project
 
 Its deals with the following subjects:
