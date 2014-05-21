@@ -9,9 +9,10 @@ English version http://parsimony.mobi/tutorial/index
 
 French version http://parsimony.mobi/tutoriel/index
 
-## CRM project
 
-Its deals with the following subjects:
+
+# This tutorial deals with the following subjects:
+
 
 ## The CRM project:
 
