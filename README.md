@@ -1,3 +1,8 @@
+To install this module, 
+* unzip 'CRM-project-Tutorial' 
+* put the 'crm' folder into the '/modules' folder
+
+
 Tutorial
 ====================
 
