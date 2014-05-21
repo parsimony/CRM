@@ -9,8 +9,8 @@ Its deals with the following subjects:
 
 ## The CRM project:
 
-* ** The functionalities**
-* **Mobile and tablet version**
+* The functionalities
+* Mobile and tablet version
 * ** CRM pages**
 * ** Data model**
 
