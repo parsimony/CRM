@@ -10,11 +10,15 @@ English version http://parsimony.mobi/tutorial/index
 French version http://parsimony.mobi/tutoriel/index
 
 
+====================
+
 
 #### This tutorial deals with the following subjects:
 
 
-## The CRM project:
+
+
+## The CRM project
 
 * The functionalities
 * Mobile and tablet version
