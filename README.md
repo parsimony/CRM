@@ -11,7 +11,7 @@ French version http://parsimony.mobi/tutoriel/index
 
 
 
-This tutorial deals with the following subjects:
+#### This tutorial deals with the following subjects:
 
 
 ## The CRM project:
