@@ -10,8 +10,7 @@ if(isset($_POST['add'])){
 ?>
 <form method="post" action="">
 	<input type="hidden" name="TOKEN" value="<?php echo TOKEN; ?>" />
-		<?php echo $entity->id_contact()->form(); ?>
-		<?php echo $entity->id_company()->form(); ?>
+
 		<?php echo $entity->name()->form(); ?>
 		<?php echo $entity->firstname()->form(); ?>
 		<?php echo $entity->title()->form(); ?>
@@ -20,7 +19,7 @@ if(isset($_POST['add'])){
 		<?php echo $entity->state()->form(); ?>
 		<?php echo $entity->code()->form(); ?>
 		<?php echo $entity->country()->form(); ?>
-		<?php echo $entity->description()->form(); ?>
+	<div class="description"><?php echo $entity->description()->form(); ?></div>
 		<?php echo $entity->mail()->form(); ?>
 		<?php echo $entity->skype()->form(); ?>
 		<?php echo $entity->twitter()->form(); ?>

@@ -10,14 +10,14 @@ if(isset($_POST['add'])){
 ?>
 <form method="post" action="">
 	<input type="hidden" name="TOKEN" value="<?php echo TOKEN; ?>" />
-		<?php echo $entity->id_company()->form(); ?>
+
 		<?php echo $entity->name()->form(); ?>
 		<?php echo $entity->street()->form(); ?>
 		<?php echo $entity->city()->form(); ?>
 		<?php echo $entity->state()->form(); ?>
 		<?php echo $entity->code()->form(); ?>
 		<?php echo $entity->country()->form(); ?>
-		<?php echo $entity->description()->form(); ?>
+	<div class="description"><?php echo $entity->description()->form(); ?></div>
 		<?php echo $entity->phone()->form(); ?>
 		<?php echo $entity->websiteurl()->form(); ?>
 		<?php echo $entity->employees()->form(); ?>
