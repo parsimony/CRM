@@ -1,6 +1,6 @@
 To install this module, 
 * unzip 'CRM-project-Tutorial' 
-* put the 'crm' folder into the '/modules' folder
+* put the 'crm' folder into your Parsimony project & more precisely into the '/modules' folder.
 
 
 Tutorial
